@@ -2,7 +2,6 @@
   "name": "tree_structure",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://ashwini161996.github.io/tree_structure",
   "dependencies": {
     "@emotion/react": "^11.10.6",
     "@emotion/styled": "^11.10.6",
